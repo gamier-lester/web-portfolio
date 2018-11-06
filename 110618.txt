@@ -1,0 +1,30 @@
+11-06-08
+TUITT Day
+
+GITHUB REPO
+*'git init' => initialize current working folder
+on terminal
+
+*'git status' => shows the list of new files
+that isn't comitted to github
+
+*'git add -A' => add all the files not
+recognized by git
+
+*'git commit -m "message"' => after selecting
+and adding new files to git, to save changes
+you must commit and write a message
+about the changes
+
+*'git config --global user.email "you@email.com"' =>
+setting email for git to recognize
+
+*'git config --global user.name "lester" =>
+setting name for git to recognize
+
+*'git remote add $alias $link' => add remote link
+
+*'git push $alias master' => upload files to github
+
+*'git remote -v' => check the list of available link
+aliases for you current folder
