@@ -64,3 +64,18 @@ h2 {
 	*/
 	text-align: center;
 }
+
+.capstone {
+	text-align: center;
+	letter-spacing: 5px;
+}
+
+.capstone a {
+	text-decoration: none;
+	color: yellow;
+	display: block;
+}
+
+.capstone a:hover {
+	transform: scale(2,2);
+}
